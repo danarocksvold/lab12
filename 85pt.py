@@ -12,7 +12,7 @@
 from Tkinter import *
 
 class MyApp:
-	def __init__(self, parent):
+	++++++++++++
 		self.myParent = parent  ### (7) remember my parent, the root
 		self.myContainer1 = Frame(parent)
 		self.myContainer1.pack()
